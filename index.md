@@ -288,6 +288,8 @@ collaborative_notes: https://pad.carpentries.org/owen-carpentry             # op
   workshop,
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
+  Try and download software yourself, but don't be overwhelmed if you can't. 
+  The instructor will assist with downloads before the first day of the workshop. 	
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
